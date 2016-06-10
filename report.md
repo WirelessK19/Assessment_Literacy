@@ -29,3 +29,15 @@ follow definition of assessment literacy:
 > educational decisions.
 >
 > W. James Popham, 2012
+
+Whether the focus is on making instructional decisions for individual students 
+or program decisions for schools of districts, educators use assessments to 
+gather data to support those decisions.  High quality assessments and 
+reporting practices provide relevant and accurate data that enable teachers 
+and specialists interacting with students to
+
+- diagnose student needs prior to instruction,
+- check in on student learning in the midst of instructional lessons or units,
+- evaluate student learning at the end of instructional lessons or units, and 
+- determine how well individual students are progressing through the curriculum.
+
