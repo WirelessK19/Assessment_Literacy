@@ -2,7 +2,7 @@
 
 Educators frequently conduct assessment activities, such as developing 
 or selecting assessments to administer to their students, in order to 
-determine what the student knows and can do. What do we mean by “assessment”? 
+determine what the student knows and can do. What do we mean by "assessment"? 
 Broadly, assessment is defined as “the process of collecting, synthesizing, 
 and interpreting information to aid (educational) decision making” 
 (Russell & Airasian, 2011). In this guide, the terms “assessment” and 
