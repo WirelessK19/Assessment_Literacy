@@ -41,3 +41,15 @@ and specialists interacting with students to
 - evaluate student learning at the end of instructional lessons or units, and 
 - determine how well individual students are progressing through the curriculum.
 
+Building and central office administrators may be more focused on the interpretation and use of aggregated assessment results to 
+ - monitor student progress across classrooms, grades, and schools,
+ - monitor the proportion of students attaining designated benchmarks,
+ - gauge the effectiveness of specific instructional or curricular programs, and
+ - evaluate academic policies.
+ 
+####Primary Principle of Assessment Literacy
+
+Assessments that provide relevant and accurate data for one purpose might not provide the data needed for another purpose. The state assessment that produces estimates of a student’s level of proficiency may produce data needed to support administrators’ decisions about the effectiveness of a particular program, but might provide little information useful to diagnose an individual student’s specific instructional needs. Similarly, an assessment designed to provide diagnostic information to inform instruction for an individual student is not likely to provide the breadth of information needed to evaluate academic policies or measure progress toward school and district goals. 
+
+Basic assessment literacy provides educators with the understandings needed to develop and select, from a range of practices, assessment tools that match their intended purposes. 
+
