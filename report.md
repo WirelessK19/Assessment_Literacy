@@ -49,7 +49,17 @@ Building and central office administrators may be more focused on the interpreta
  
 ####Primary Principle of Assessment Literacy
 
+ > Form Follows Function
+
 Assessments that provide relevant and accurate data for one purpose might not provide the data needed for another purpose. The state assessment that produces estimates of a student’s level of proficiency may produce data needed to support administrators’ decisions about the effectiveness of a particular program, but might provide little information useful to diagnose an individual student’s specific instructional needs. Similarly, an assessment designed to provide diagnostic information to inform instruction for an individual student is not likely to provide the breadth of information needed to evaluate academic policies or measure progress toward school and district goals. 
 
 Basic assessment literacy provides educators with the understandings needed to develop and select, from a range of practices, assessment tools that match their intended purposes. 
 
+####Assessment Literacy Categories in This Guide
+
+Assessment literacy information is grouped, in Section 2 of this guide, into three categories:
+ - 1.	Developing and selecting assessment items
+ - 2.	Developing assessments
+ - 3.	Working with assessment results (producing, reporting, and interpreting)
+ 
+####What is Technology Literacy?
