@@ -63,3 +63,43 @@ Assessment literacy information is grouped, in Section 2 of this guide, into thr
  - 3.	Working with assessment results (producing, reporting, and interpreting)
  
 ####What is Technology Literacy?
+
+ > Technology is nothing. What's important is that you 
+ > have a faith in people, that they're basically good and smart, 
+ > and if you give them tools, they'll do wonderful things with them. 
+ 
+> —Steve Jobs, Rolling Stone, June 1994
+
+Assessment literacy alone is not sufficient for an educator to effectively produce quality work and 
+results using an assessment system. The educator also benefits from having an understanding of best 
+practices associated with assessment and reporting, as well as a basic understanding of each system's 
+available functionalities and a willingness to access and use them effectively. 
+
+###Part 2. The Cycle of Inquiry
+
+ > We use the general term assessment to refer to all those activities undertaken 
+ > by teachers—and by their students in assessing themselves —that provide information 
+ > to be used as feedback to modify teaching and learning activities. Such assessment
+ > becomes formative assessment when the evidence is actually used to adapt the 
+ > teaching to meet student needs.
+
+> —Black, P. & Wiliam, D. 1998. 
+> Inside the Black Box: 
+> Raising standards through classroom assessment
+
+Throughout this guide, we view assessment as integral to a feedback process that incorporates 
+planning, instrument selection or development, data collection, and data use to support decision-making 
+pertaining to student learning—in the classroom and beyond. The data gathered may be quantitative (numbers) 
+or qualitative (words, pictures, or other non-numeric information). Assessment may involve tests and 
+other tools or more informal methods for gathering data on students, but the process is one that 
+always invokes the cycle of inquiry. 
+
+The distinction between viewing assessment as a process and as an instrument is more than simply wordplay. 
+When assessment is viewed as a single instrument like a test, or even a single item, the likelihood of 
+misinterpretation and misuse of the assessment results increases significantly (for example, when scoring 
+well on the instrument or item overshadows the reason or purpose for conducting the assessment in the first place).
+The process of assessment always involves the cycle of inquiry (Means, Padilla, Gallagher, SRI International, 2010). 
+
+In the cycle of inquiry, educators use assessment practices to answer specific questions about student learning. 
+The assessment instrument itself is simply a tool in this process, as any number of instruments may be used 
+to yield various insights into student learning and educational effectiveness.
