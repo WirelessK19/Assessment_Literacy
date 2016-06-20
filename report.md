@@ -58,9 +58,9 @@ Basic assessment literacy provides educators with the understandings needed to d
 ####Assessment Literacy Categories in This Guide
 
 Assessment literacy information is grouped, in Section 2 of this guide, into three categories:
- - 1.	Developing and selecting assessment items
- - 2.	Developing assessments
- - 3.	Working with assessment results (producing, reporting, and interpreting)
+  1.	Developing and selecting assessment items
+  2.	Developing assessments
+  3.	Working with assessment results (producing, reporting, and interpreting)
  
 ####What is Technology Literacy?
 
