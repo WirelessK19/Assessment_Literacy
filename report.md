@@ -103,3 +103,7 @@ The process of assessment always involves the cycle of inquiry (Means, Padilla, 
 In the cycle of inquiry, educators use assessment practices to answer specific questions about student learning. 
 The assessment instrument itself is simply a tool in this process, as any number of instruments may be used 
 to yield various insights into student learning and educational effectiveness.
+
+#####Cycle of Inquiry
+
+![figure](https://github.com/WirelessK19/Assessment_Literacy/blob/master/Cycle.docx)
