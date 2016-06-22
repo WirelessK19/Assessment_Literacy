@@ -107,3 +107,5 @@ to yield various insights into student learning and educational effectiveness.
 #####Cycle of Inquiry
 
 ![figure](https://github.com/WirelessK19/Assessment_Literacy/blob/master/Cycle.docx)
+
+<a href="https://literasee.github.io"><img src="https://literasee.github.io/public/Literasee_symbol_right_trimmed.svg" align="left" hspace="10" vspace="6"></a>
