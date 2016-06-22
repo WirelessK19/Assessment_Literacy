@@ -107,4 +107,27 @@ to yield various insights into student learning and educational effectiveness.
 #####Cycle of Inquiry
 
 <a href="https://github.com/WirelessK19/Assessment_Literacy"><img src="https://github.com/WirelessK19/Assessment_Literacy/blob/master/Cycle.docx" 
-align="left" hspace="10" vspace="6"></a>
+align="center" hspace="10" vspace="6"></a>
+
+
+The cycle of inquiry enables educators to integrate results from most assessments into teaching and 
+instructional planning (formative assessment uses) and curricular planning and evaluation 
+(interim/summative assessment uses).The cycle is iterative, and also flexible. Educators 
+can enter the cycle at any point and often repeat the steps with students several times 
+in a week or even in a class period. 
+
+- The cycle begins with planning and implementing instruction.
+- Next, assessments are administered.
+- Assessment results are then examined, reflected upon, and used in the next round of planning 
+and implementation.
+
+In the case of formative assessment, the cycle has a short time-frame, sometimes spanning only a day or a single class period. Interim and summative assessment cycles have longer time spans that can extend over a curricular unit, a term, a semester, or one or more school years. 
+
+Table 1 below illustrates a common classroom situation: how assessment quality and 
+the cycle of inquiry work together for a short cycle.Here, the teacher must decide 
+whether to continue to teach content in a specific area or move onto the next set 
+of content. This decision is based on how well students have learned the material. 
+The table compares a basic-quality assessment to a better-quality assessment. 
+
+Table 1. Basic v. Better Short-Cycle Assessment
+
