@@ -106,7 +106,7 @@ to yield various insights into student learning and educational effectiveness.
 
 ##### Cycle of Inquiry
 
-![alt text](https://github.com/WirelessK19/Assessment_Literacy/blob/master/Cycle.PNG "Image of Cycle of Inquiry")
+![alt text](https://raw.githubusercontent.com/WirelessK19/Assessment_Literacy/master/Cycle.PNG "Image of Cycle of Inquiry")
 
 The cycle of inquiry enables educators to integrate results from most assessments into teaching and 
 instructional planning (formative assessment uses) and curricular planning and evaluation 
