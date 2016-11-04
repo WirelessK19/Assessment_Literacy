@@ -47,7 +47,7 @@ Building and central office administrators may be more focused on the interpreta
  - gauge the effectiveness of specific instructional or curricular programs, and
  - evaluate academic policies.
  
-####Primary Principle of Assessment Literacy
+#### Primary Principle of Assessment Literacy
 
  > Form Follows Function
 
@@ -55,14 +55,14 @@ Assessments that provide relevant and accurate data for one purpose might not pr
 
 Basic assessment literacy provides educators with the understandings needed to develop and select, from a range of practices, assessment tools that match their intended purposes. 
 
-####Assessment Literacy Categories in This Guide
+#### Assessment Literacy Categories in This Guide
 
 Assessment literacy information is grouped, in Section 2 of this guide, into three categories:
   1.	Developing and selecting assessment items
   2.	Developing assessments
   3.	Working with assessment results (producing, reporting, and interpreting)
  
-####What is Technology Literacy?
+#### What is Technology Literacy?
 
  > Technology is nothing. What's important is that you 
  > have a faith in people, that they're basically good and smart, 
@@ -75,7 +75,7 @@ results using an assessment system. The educator also benefits from having an un
 practices associated with assessment and reporting, as well as a basic understanding of each system's 
 available functionalities and a willingness to access and use them effectively. 
 
-###Part 2. The Cycle of Inquiry
+### Part 2. The Cycle of Inquiry
 
  > We use the general term assessment to refer to all those activities undertaken 
  > by teachers—and by their students in assessing themselves —that provide information 
@@ -104,7 +104,7 @@ In the cycle of inquiry, educators use assessment practices to answer specific q
 The assessment instrument itself is simply a tool in this process, as any number of instruments may be used 
 to yield various insights into student learning and educational effectiveness.
 
-#####Cycle of Inquiry
+##### Cycle of Inquiry
 
 ![alt text](https://github.com/WirelessK19/Assessment_Literacy/blob/master/Cycle.PNG "Image of Cycle of Inquiry")
 
