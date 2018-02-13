@@ -129,6 +129,6 @@ The table compares a basic-quality assessment to a better-quality assessment.
 
 Table 1. Basic v. Better Short-Cycle Assessment
 
-![alt text](https://raw.githubusercontent.com/WirelessK19/Assessment_Literacy/ShortCycle.PNG "Short Cycle of Assessment Literacy")
+![alt text](https://raw.githubusercontent.com/WirelessK19/Assessment_Literacy/master/ShortCycle.PNG "Short Cycle of Assessment Literacy")
  
  
